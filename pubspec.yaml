@@ -1,12 +1,6 @@
 name: vibrate
-<<<<<<< HEAD
-description: A flutter plugin to vibrate the device
-version: 0.0.3
-author: Clovis Nicolas <clovisnicolas0@gmail.com>
-homepage: https://github.com/clovisnicolas/flutter_vibrate
-=======
 description: A Haptic Feedback plugin.
-version: 0.0.4
+version: 0.0.5
 authors:
   - Clovis Nicolas <clovisnicolas0@gmail.com>
   - Rhodes Davis Jr. <rody.davis.jr@gmail.com>
@@ -14,7 +8,6 @@ homepage: https://github.com/appleeducate/flutter_vibrate
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
->>>>>>> 60e02647f66a1e73ecbd1fe294bf4d8992ed64be
 
 dependencies:
   flutter:
